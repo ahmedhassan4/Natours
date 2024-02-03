@@ -1,2 +1,3 @@
-# Natours
-Project with Node.js, Express and MongoDB
+# Natours Application
+
+Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
